@@ -9,4 +9,4 @@ See `src/Pose_Estimation_for_Grappling.ipynb` for source code. Google Colab can 
 
 ### Documentation
 
-See `doc/pdf/` for all documentation files. For LaTeX generated PDFs, the source can be viewed at `doc/TeX`.
+See `doc/pdf/` for all documentation files. For LaTeX generated PDFs, the source can be viewed at `doc/TeX/`.
