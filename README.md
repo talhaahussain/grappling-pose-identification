@@ -3,6 +3,8 @@ Third year university dissertation. Continuous Assessment for ECM3401 -  Individ
 
 Please see `specification.pdf` for specification.
 
+The literature review (`doc/pdf/lit_review.pdf`) received a final mark of 74/100. The final mark of this project overall is pending.
+
 ### Usage
 
 See `src/Pose_Estimation_for_Grappling.ipynb` for source code. Google Colab can be used to load the notebook and run the cells. Please run all cells in the order they appear.
