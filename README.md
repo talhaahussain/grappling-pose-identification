@@ -3,7 +3,7 @@ Third year university dissertation. Continuous Assessment for ECM3401 -  Individ
 
 Please see `specification.pdf` for specification.
 
-The literature review (`doc/pdf/lit_review.pdf`) received a final mark of 74/100. The final mark of this project overall is pending.
+The literature review (`doc/pdf/lit_review.pdf`) received a final mark of 74/100. The final report and demo (`doc/pdf/final_report.pdf`, `doc/pdf/final_presentation.pdf`) received a final mark of 76/100. The supervisor report for this project gave a mark of 70/100. **This work received a final mark of 75/100.**
 
 ### Usage
 
